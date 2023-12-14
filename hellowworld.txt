@@ -1,0 +1,7 @@
+#include<stdio.h>
+
+int main()
+{
+printf("Hellow world ! This is upendra")
+return 0;
+}
